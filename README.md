@@ -100,7 +100,7 @@ Business Insights & Decision Making
 
 > Dashboard Overview
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](image/dashboard.png)
 
 ---
 
