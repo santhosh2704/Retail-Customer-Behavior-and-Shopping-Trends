@@ -352,12 +352,6 @@ Potential improvements for future versions of this project:
 
 ---
 
-# 📄 License
-
-This project is intended for educational and portfolio purposes.
-
----
-
 # 👨‍💻 Author
 
 **Santhosh**
